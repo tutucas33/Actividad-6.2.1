@@ -3,10 +3,11 @@ body {
     font-family:Georgia, 'Times New Roman', Times, serif;
 }
 
-.image{
+.image {
     border: 5px solid green;
     border-radius: 10px;
     height: 400px;
+    margin-bottom: 20px;
 }
 
 .link-button {
