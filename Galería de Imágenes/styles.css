@@ -1,5 +1,6 @@
 body {
     background-image: linear-gradient(yellow, pink, red);
+    font-family:Georgia, 'Times New Roman', Times, serif;
 }
 
 .image{
