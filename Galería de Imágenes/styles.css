@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(255, 255, 165);
+    background-image: linear-gradient(yellow, pink, red);
 }
 
 .image{
